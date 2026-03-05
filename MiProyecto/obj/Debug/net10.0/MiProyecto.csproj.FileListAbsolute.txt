@@ -1,0 +1,14 @@
+C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\bin\Debug\net10.0\MiProyecto.exe
+C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\bin\Debug\net10.0\MiProyecto.deps.json
+C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\bin\Debug\net10.0\MiProyecto.runtimeconfig.json
+C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\bin\Debug\net10.0\MiProyecto.dll
+C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\bin\Debug\net10.0\MiProyecto.pdb
+C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\obj\Debug\net10.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\obj\Debug\net10.0\MiProyecto.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\obj\Debug\net10.0\MiProyecto.AssemblyInfo.cs
+C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\obj\Debug\net10.0\MiProyecto.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\obj\Debug\net10.0\MiProyecto.dll
+C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\obj\Debug\net10.0\refint\MiProyecto.dll
+C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\obj\Debug\net10.0\MiProyecto.pdb
+C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\obj\Debug\net10.0\MiProyecto.genruntimeconfig.cache
+C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\obj\Debug\net10.0\ref\MiProyecto.dll
