@@ -17,3 +17,5 @@ namespace ProyectoEpidemiologiaIPC2.Modelo
         }
     }
 }
+
+// Codio ultimo ... 
