@@ -12,3 +12,4 @@ C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\obj\Debug\net8.0-
 C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\obj\Debug\net8.0-windows\MiProyecto.pdb
 C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\obj\Debug\net8.0-windows\MiProyecto.genruntimeconfig.cache
 C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\obj\Debug\net8.0-windows\ref\MiProyecto.dll
+C:\Users\EQUIPO\Documents\ProyectoEpidemiologiaIPC2\MiProyecto\obj\Debug\net8.0-windows\MiProyecto.sourcelink.json
