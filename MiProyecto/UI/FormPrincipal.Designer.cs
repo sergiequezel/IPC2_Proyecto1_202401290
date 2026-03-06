@@ -13,6 +13,7 @@ namespace ProyectoEpidemiologiaIPC2.UI
         private Panel panelRejilla;
         private Button btnGenerarXML;
 
+        private Button btnLimpiar;
         private void InitializeComponent()
         {
             this.comboPacientes = new ComboBox();
@@ -59,6 +60,13 @@ namespace ProyectoEpidemiologiaIPC2.UI
             panelRejilla.Location = new Point(20, 100);
             panelRejilla.Size = new Size(600, 600);
             panelRejilla.BorderStyle = BorderStyle.FixedSingle;
+
+            btnLimpiar = new Button();
+            btnLimpiar.Text = "Limpiar Memoria";
+            btnLimpiar.Location = new Point(520, 20);
+            btnLimpiar.Size = new Size(140, 30);
+
+            this.Controls.Add(btnLimpiar);
 
             // Form
             this.ClientSize = new Size(800, 750);

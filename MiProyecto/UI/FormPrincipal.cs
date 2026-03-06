@@ -46,6 +46,7 @@ namespace ProyectoEpidemiologiaIPC2.UI
             btnPaso.Click += BtnPaso_Click;
             btnAuto.Click += BtnAuto_Click;
             btnGenerarXML.Click += BtnGenerarXML_Click;
+            btnLimpiar.Click += BtnLimpiar_Click;
 
             comboPacientes.SelectedIndexChanged += ComboPacientes_SelectedIndexChanged;
             panelRejilla.Paint += PanelRejilla_Paint;
@@ -281,6 +282,34 @@ namespace ProyectoEpidemiologiaIPC2.UI
 
                 MessageBox.Show("XML generado correctamente.");
             }
+        }
+        private void BtnLimpiar_Click(object sender, EventArgs e)
+        {
+            timer.Stop();
+
+            pacientes.Clear();
+
+            comboPacientes.DataSource = null;
+
+            rejillaActual = null;
+
+            periodoActual = 0;
+
+            estadosConPeriodo.Clear();
+
+            estadoInicial = null;
+
+            N = 0;
+            N1 = 0;
+
+            resultadoFinal = "No determinado";
+
+            lblPeriodo.Text = "Periodo: 0";
+            lblVivas.Text = "Células vivas: 0";
+
+            panelRejilla.Invalidate();
+
+            MessageBox.Show("Memoria limpiada correctamente.");
         }
     }
 }
